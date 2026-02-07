@@ -43,4 +43,4 @@ This repository is designed for **data analysts, quantitative researchers, and p
 
 
 ```bash
-pip install pandas matplotlib seaborn numpy
+pip install pandas matplotlib seaborn numpy mplfinance
