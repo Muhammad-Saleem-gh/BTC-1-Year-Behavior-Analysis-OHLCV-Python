@@ -1,7 +1,4 @@
 # BTC-1-Year-Behavior-Analysis-OHLCV-Python
-Comprehensive market analysis using OHLCV data
-# OHLCV Market Analysis with Python
-
 Comprehensive step-by-step workflow for **analyzing market behavior** using OHLCV data (Open, High, Low, Close, Volume).  
 This repository is designed for **data analysts, quantitative researchers, and portfolio managers** to extract actionable insights from raw price and volume data.
 
